@@ -11,7 +11,7 @@ import javax.imageio.ImageIO;
  */
 
 /**
- * @author Allah
+ * @author Alireza
  */
 public class Splash extends javax.swing.JFrame {
 
